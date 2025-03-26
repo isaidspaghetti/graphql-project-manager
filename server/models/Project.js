@@ -12,9 +12,9 @@ const ProjectSchema = new mongoose.Schema({
 		type: String,
 		enum: ['Not Started', 'In Progress', 'Completed'],
 	},
-	ClientId: {
+	clientId: {
 		type: mongoose.Schema.Types.ObjectId, // object id = the index in mongo
-		ref: 'Client' // refer to client model
+		ref: 'Client', // refer to client model
 	},
 
 })
