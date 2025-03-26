@@ -64,7 +64,7 @@ This project was built as part of a GraphQL practice exercise to reinforce:
 
 ## 📸 Demo GIF
 
-[GIF Demo](../project_mgmt_gif.mp4)
+[GIF Demo](project_mgmt_gif.mp4)
 
 ---
 
