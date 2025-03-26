@@ -62,9 +62,9 @@ This project was built as part of a GraphQL practice exercise to reinforce:
 
 ---
 
-## 📸 Demo GIF
+## 📸 Demo Screen Cap
 
-[GIF Demo](project_mgmt_gif.mp4)
+[Demo.mov.zip](720%20Demo.mov.zip)
 
 ---
 
